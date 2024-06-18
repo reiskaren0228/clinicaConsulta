@@ -33,13 +33,13 @@ Para executar o sistema, é necessário ter um ambiente que suporte JavaScript (
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-clinica-consultas.git
+git clone https://github.com/reiskaren0228/clinicaConsulta.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd sistema-clinica-consultas
+cd clinicaConsulta
 ```
 
 3. Execute o programa:
